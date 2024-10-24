@@ -20,11 +20,13 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import java from "./tech/java.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import eps from './company/elektroprivreda-srbije-eps.jpg'
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -42,6 +44,7 @@ export {
   css,
   docker,
   figma,
+  java,
   git,
   html,
   javascript,
@@ -55,6 +58,7 @@ export {
   meta,
   shopify,
   starbucks,
+  eps,
   tesla,
   carrent,
   jobit,

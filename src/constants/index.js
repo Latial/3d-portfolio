@@ -12,6 +12,7 @@ import {
   tailwind,
   nodejs,
   mongodb,
+  java,
   git,
   figma,
   docker,
@@ -19,6 +20,7 @@ import {
   starbucks,
   tesla,
   shopify,
+  eps,
   carrent,
   jobit,
   tripguide,
@@ -61,12 +63,12 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
+    name: "Java",
+    icon: java,
   },
   {
-    name: "CSS 3",
-    icon: css,
+    name: "Node JS",
+    icon: nodejs,
   },
   {
     name: "JavaScript",
@@ -89,12 +91,12 @@ const technologies = [
     icon: tailwind,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "CSS3",
+    icon: css,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "HTML 5",
+    icon: html,
   },
   {
     name: "Three JS",
