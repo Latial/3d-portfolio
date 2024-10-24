@@ -31,6 +31,13 @@ import eps from './company/elektroprivreda-srbije-eps.jpg'
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import one from './1.png';
+import two from './2.png';
+import three from './3.png';
+import four from './4.png';
+import five from './5.png';
+import oneOne from './11.png'
+import twotwo from './22.png';
 
 export {
   logo,
@@ -63,4 +70,11 @@ export {
   carrent,
   jobit,
   tripguide,
+  one,
+  two,
+  three,
+  four,
+  five,
+  oneOne,
+  twotwo
 };

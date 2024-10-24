@@ -25,6 +25,13 @@ import {
   jobit,
   tripguide,
   threejs,
+  one,
+  two,
+  three,
+  four,
+  five,
+  oneOne,
+  twotwo
 } from "../assets";
 
 export const navLinks = [
@@ -200,49 +207,65 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Scout.rs (Collaboration)",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Collaborated with Luka Klačar to develop a comprehensive job finder platform, enabling users to explore companies and their job listings.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
       },
       {
         name: "tailwind",
         color: "pink-text-gradient",
       },
+      {
+        name : "java",
+        color :"orange-text-gradient",
+      },
+      {
+        name: "postgresql",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "docker",
+        color: "green-text-gradient",
+      }
     ],
-    image: carrent,
+    image: two,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "LucyusBeats",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Developed a full-stack beat selling platform enabling users to browse, purchase, and save music beats.\n",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
+      {
+        name : "java",
+        color :"orange-text-gradient",
+      },
+      {
+        name: "postgresql",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "docker",
+        color: "green-text-gradient",
+      }
     ],
-    image: jobit,
+    image: three,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Four",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
@@ -259,7 +282,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: four,
     source_code_link: "https://github.com/",
   },
 ];
