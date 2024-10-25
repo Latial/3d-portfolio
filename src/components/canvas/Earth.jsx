@@ -2,13 +2,15 @@ import React, {Suspense} from "react";
 import {Canvas} from "@react-three/fiber";
 import {OrbitControls, Preload, useGLTF} from "@react-three/drei";
 import CanvasLoader from '../Loader'
+import { isMobile } from 'react-device-detect';
 const Earth = () => {
     const earth = useGLTF('./planet/scene.gltf')
+    const earthDesktop = useGLTF('./earth/scene.gltf')
     return (
         <>
             <ambientLight intensity={1}/>
             <primitive
-                object={earth.scene}
+                object={isMobile ? earth.scene : earthDesktop.scene}
                 scale={1.8}
                 position-y={0}
                 rotation-y={0}
