@@ -125,47 +125,8 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
     title: "Full stack Developer",
-    company_name: "Meta",
+    company_name: "None",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
@@ -176,6 +137,45 @@ const experiences = [
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
+  {
+  title: "Database manager - Intern",
+  company_name: "",
+  icon: starbucks,
+  iconBg: "#383E56",
+  date: "March 2024 - April 2024",
+  points: [
+      "Supported Database Maintenance: Assisted in monitoring and maintaining database performance, ensuring efficient operation and data availability.",
+      "Data Integrity and Security: Contributed to data security measures, following protocols to protect sensitive information and maintain compliance with organizational standards",
+      "Data Entry and Query Support: Managed data entry tasks and executed SQL queries to aid in reporting, data analysis, and troubleshooting",
+      "Data Validation and Cleanup: Identified and resolved data discrepancies, enhancing data accuracy and reliability",
+      "Documentation and Procedures: Documented database structures, maintenance tasks, and modifications to support continuity and knowledge sharing."
+  ],
+  },
+  {
+    title: "React Developer",
+    company_name: "",
+    icon: tesla,
+    iconBg: "#E6DEDD",
+    date: "Jan 2021 - Feb 2022",
+    points: [
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
+    title: "Web Developer",
+    company_name: "None",
+    icon: shopify,
+    iconBg: "#383E56",
+    date: "Jan 2022 - Present",
+    points: [
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  }
 ];
 
 const testimonials = [
