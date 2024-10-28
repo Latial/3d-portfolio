@@ -26,7 +26,6 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-import eps from './company/elektroprivreda-srbije-eps.jpg'
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -38,8 +37,12 @@ import four from './4.png';
 import five from './5.png';
 import oneOne from './11.png'
 import twotwo from './22.png';
+import logoMy from './logo.png'
+import eps from './company/Logo_of_Elektroprivreda_Srbije.png'
 
 export {
+  eps,
+  logoMy,
   logo,
   backend,
   creator,
@@ -65,7 +68,6 @@ export {
   meta,
   shopify,
   starbucks,
-  eps,
   tesla,
   carrent,
   jobit,

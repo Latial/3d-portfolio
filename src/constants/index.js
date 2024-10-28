@@ -20,7 +20,6 @@ import {
   starbucks,
   tesla,
   shopify,
-  eps,
   carrent,
   jobit,
   tripguide,
@@ -31,7 +30,10 @@ import {
   four,
   five,
   oneOne,
-  twotwo
+  twotwo,
+  logoMy,
+  logo,
+  eps
 } from "../assets";
 
 export const navLinks = [
@@ -127,7 +129,7 @@ const experiences = [
   {
     title: "Full stack Developer",
     company_name: "None",
-    icon: meta,
+    icon: logoMy,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
@@ -139,9 +141,9 @@ const experiences = [
   },
   {
   title: "Database manager - Intern",
-  company_name: "",
-  icon: starbucks,
-  iconBg: "#383E56",
+  company_name: "Elektroprivreda Srbije",
+  icon: eps,
+  iconBg: "#E6DEDD",
   date: "March 2024 - April 2024",
   points: [
       "Supported Database Maintenance: Assisted in monitoring and maintaining database performance, ensuring efficient operation and data availability.",
@@ -154,7 +156,7 @@ const experiences = [
   {
     title: "React Developer",
     company_name: "",
-    icon: tesla,
+    icon: logoMy,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
