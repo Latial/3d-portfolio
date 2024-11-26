@@ -158,7 +158,7 @@ const experiences = [
     company_name: "",
     icon: logoMy,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jan 2021 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
@@ -170,7 +170,7 @@ const experiences = [
     company_name: "None",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Present",
+    date: "Jan 2020 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
