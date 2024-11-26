@@ -131,9 +131,10 @@ const experiences = [
     company_name: "None",
     icon: logoMy,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "March 2022 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using React.js with Java and Spring Boot and other related technologies.",
+      "Creating backend logic and functionality with Java and Spring Boot",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
