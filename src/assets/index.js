@@ -39,9 +39,11 @@ import oneOne from './11.png'
 import twotwo from './22.png';
 import logoMy from './logo.png'
 import eps from './company/Logo_of_Elektroprivreda_Srbije.png'
+import ncrVoyix from './company/ncrVoyix.jpg'
 
 export {
   eps,
+  ncrVoyix,
   logoMy,
   logo,
   backend,

@@ -33,7 +33,8 @@ import {
   twotwo,
   logoMy,
   logo,
-  eps
+  eps,
+  ncrVoyix
 } from "../assets";
 
 export const navLinks = [
@@ -126,6 +127,22 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+    title: "Help Desk Representative",
+    company_name: "NCR Voyix",
+    icon: ncrVoyix,
+    iconBg: "#E6DEDD",
+    date: "November 2024 - Present",
+    points: [
+      "Assessment & validation of tickets that come in to the Helpdesk.",
+      "Perform basic remote troubleshooting with end-users of PCs and retail point-of-sale devices",
+      "Remotely dispatch service personnel, and work directly with customers to understand the problems and ensure a timely and satisfactory resolutions.",
+      "Communicate & collaborate with customers, service personnel, logistics and account managers via phone and email to ensure problem resolution & meet Service Level Agreements.",
+      "Document, verify and make appropriate corrections to the incident record and customer profile.",
+      "Maintain & develop knowledge and expertise associated with multiple customer accounts, processes and the applications that support said processes.",
+      "Handle escalations, when required, to the appropriate groups"
+    ],
+  },
   {
     title: "Full stack Developer",
     company_name: "None",
