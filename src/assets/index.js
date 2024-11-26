@@ -40,8 +40,12 @@ import twotwo from './22.png';
 import logoMy from './logo.png'
 import eps from './company/Logo_of_Elektroprivreda_Srbije.png'
 import ncrVoyix from './company/ncrVoyix.jpg'
+import githubIcon from './github-icon.svg'
+import linkedIn from './linkedin-icon.svg'
 
 export {
+  githubIcon,
+  linkedIn,
   eps,
   ncrVoyix,
   logoMy,
